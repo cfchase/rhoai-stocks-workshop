@@ -1,1 +1,1 @@
-# rhods-stocks-workshop
+# rhoai-stocks-workshop
